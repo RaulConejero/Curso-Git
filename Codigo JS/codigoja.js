@@ -1,1 +1,2 @@
-console.log("Modificar archivo JS");
+const mensaje = "Modificar archivo JS";
+console.log(mensaje);
