@@ -1,2 +1,4 @@
-const mensaje = "Modificar archivo JS";
-console.log(mensaje);
+function modificar() {
+  const mensaje = "Modificar archivo JS";
+  alert(mensaje);
+}
