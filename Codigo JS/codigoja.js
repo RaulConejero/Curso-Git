@@ -1,4 +1,4 @@
 function modificar() {
-  const mensaje = "Modificar archivo JS";
+  const mensaje = "Modificar archivo";
   alert(mensaje);
 }
